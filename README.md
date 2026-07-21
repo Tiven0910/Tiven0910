@@ -43,8 +43,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api?username=Tiven0910&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-
 Final-year **Bachelor of Computer Science (Honours)** student and **Full-Stack Developer** who builds production web applications end to end.
 
 - Backend-strong: **Laravel / PHP 8**, REST APIs, PostgreSQL & MySQL, role-based workflows.
@@ -54,8 +52,6 @@ Final-year **Bachelor of Computer Science (Honours)** student and **Full-Stack D
 - ~2 years delivering custom software for real freelance clients, end to end.
 
 **Open to:** `Full-Stack Developer` · `Web Developer` roles — Malaysia / Remote.
-
-<br clear="right"/>
 
 ---
 
@@ -236,48 +232,31 @@ Full-stack web development on **KollectValley**, an enterprise accounts-receivab
 
 ---
 
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<!-- Replace Tiven0910 with your real handles, or delete any platform you don't use -->
-<a href="https://leetcode.com/u/Tiven0910">
-  <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/Tiven0910">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
-</a>
-<a href="https://www.hackerrank.com/profile/Tiven0910">
-  <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.codechef.com/users/Tiven0910">
-  <img src="https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiven0910&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiven0910&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiven0910&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiven0910&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="streak" />
 
 </div>
 
+<!--
+github-readme-stats (stats card + top-langs) and github-profile-trophy are
+currently returning HTTP 503 / 402 — their free public instances are over
+quota. Uncomment once those services are healthy again.
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tiven0910&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiven0910&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tiven0910&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+-->
+
 ---
 
-## 🥇 GitHub Trophies
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tiven0910&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+<img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
 
 </div>
 
@@ -297,7 +276,11 @@ Full-stack web development on **KollectValley**, an enterprise accounts-receivab
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Tiven0910/Tiven0910/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiven0910/Tiven0910/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiven0910/Tiven0910/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/Tiven0910/Tiven0910/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
