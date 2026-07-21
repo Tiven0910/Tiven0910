@@ -58,19 +58,8 @@ Final-year **Bachelor of Computer Science (Honours)** student and **Full-Stack D
 ## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,js,html,css,tailwind,bootstrap,spring,postgres,mysql,redis,firebase,git,github,docker,figma,vscode,androidstudio&theme=dark" alt="skill icons" />
-
+  <img src="./assets/tech-stack.svg" alt="tech stack" width="100%" />
 </div>
-
-<br/>
-
-| | |
-| :--- | :--- |
-| **Languages** | PHP · Kotlin · Java · JavaScript (ES6+) · SQL · HTML5 · CSS3 |
-| **Frontend** | Tailwind CSS · Bootstrap · Blade |
-| **Backend & Databases** | Laravel · Spring Boot · PostgreSQL · MySQL · Redis · Firebase · REST APIs |
-| **Cloud, DevOps & Tooling** | Git · GitHub/Gitea · CI/CD (Gitea Actions) · Docker · Figma |
 
 ---
 
